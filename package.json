@@ -9,8 +9,8 @@
     "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "ampt": {
-    "org": "demo",
-    "app": "remix-test"
+    "org": "",
+    "app": ""
   },
   "dependencies": {
     "@ampt/remix": "^1.0.19",
