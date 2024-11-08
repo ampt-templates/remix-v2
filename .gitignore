@@ -1,0 +1,12 @@
+node_modules
+
+/.cache
+/build
+/public/build
+/.ampt
+/static
+.env
+.amptrc
+.ampt*rc
+.ampt/
+.DS_Store
